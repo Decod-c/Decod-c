@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Decod-c
-- 👀 I’m interested in FRONTEND DEVELOPMENT AND GRAPHIC DESIGH
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,ADOBE ILLUSTRATOR,COREL DRAW
+- 👀 I’m interested in FRONTEND DEVELOPMENT AND GRAPHIC DESIGHNER
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,React, UI/UX,Flutter
 - 💞️ I’m looking to collaborate on META,GOOGLE ETC
-- 📫 How to reach me 
+- 📫 How to reach me : yvesmike9@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Watching Animes,listen music and playing games
 
